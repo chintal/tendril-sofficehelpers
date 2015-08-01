@@ -10,8 +10,8 @@ setup(
         ]
     },
     url='http://www.quazartech.com/',
-    license='GNU GPLv3',
+    license='GNU LGPLv2.1+',
     author='Chintalagiri Shashank',
-    author_email='chintal@quazartech.com',
+    author_email='shashank@chintal.in',
     description='Helpers for LibreOffice integration with automated tools',
 )
