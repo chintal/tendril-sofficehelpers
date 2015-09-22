@@ -19,7 +19,14 @@ Installation
 ------------
 
 This package has been tested only with python 3.4 and the LibreOffice installed
-from standard Ubuntu 14.04 repositories.
+from standard Ubuntu 14.04 repositories. You should make sure the correct version
+of ``uno`` is installed in your python environment::
+
+    $ python3
+    Python 3.4.0 (default, Jun 19 2015, 14:20:21)
+    [GCC 4.8.2] on linux
+    >>> import uno
+    >>>
 
 This package can be installed from pypi using pip::
 
@@ -40,9 +47,6 @@ Downloads and Documentation
 The simplest way to obtain the source for this package is to clone the git repository::
 
     git clone https://github.com/chintal/tendril-sofficehelpers.git sofficehelpers
-
-The latest version of the documentation can be found at
-`ReadTheDocs <http://sofficehelpers.readthedocs.org/en/latest/index.html>`_.
 
 License
 -------
