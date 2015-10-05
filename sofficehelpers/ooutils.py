@@ -20,6 +20,7 @@ _oopaths = (
     ('/usr/lib64/ooo-2.0/program', '/usr/lib64/ooo-2.0/program'),
     ('/opt/openoffice.org3/program', '/opt/openoffice.org/basis3.1/program'),
     ('/usr/lib/libreoffice/program', '/usr/lib/libreoffice/program'),
+    ('/usr/lib64/libreoffice/program', '/usr/lib/libreoffice/program'),
 )
 
 for p in _oopaths:
